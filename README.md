@@ -1,2 +1,2 @@
 # portfolio
-Folder for all the projects
+Folder to keep data and scripts used for portfolio 
